@@ -1,0 +1,32 @@
+
+
+body {
+    margin: 0;
+    color: #499096;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px black;
+}    
+#Hero {
+    background-image: url("galaxy.webp");
+    background-size: cover;
+    padding: 10px 0 200px 0;
+}
+#main-logo {
+    width: 200px;
+    padding-top: 70px;
+}
+.btn {
+    padding: 6px 12px;
+    background-color: whitesmoke;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-size: 30px;
+    color: #6c897c;
+    font-weight: bold;
+}
+
+.expo {
+    border-bottom: 8px solid  aliceblue;
+}
